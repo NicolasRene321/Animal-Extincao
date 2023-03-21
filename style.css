@@ -52,6 +52,10 @@ div a {
 }
 
 #informacaoGuara {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
+footer {
+    background-color: green;
+    padding-top: 70px;
+}
